@@ -1,0 +1,8 @@
+.friend {
+    padding-right: 70px;
+    justify-content: flex-end;
+}
+
+.me {
+    justify-content: flex-start;
+}
