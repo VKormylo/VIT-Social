@@ -1,0 +1,50 @@
+.users {
+    display: flex;
+    align-items: center;
+    margin: 50px 0 50px 50px; 
+}
+
+.userPhoto {
+    width: 60px;
+    height: 60px;
+}
+
+.userInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    height: 70px;
+    border: 2px solid #fff;
+    border-radius: 20px;
+}
+
+.personal,
+.location { 
+    padding: 10px 20px;
+}
+
+.ava {
+    margin-right: 30px;
+}
+
+.name {
+    font-size: 22px;
+}
+
+.page {
+    margin: 20px 50px;
+    max-width: 100px;
+}
+
+.pageText {
+    cursor: pointer;
+    font-size: 16px;
+    padding-left: 5px;
+    transition: 0.5s;
+}
+
+.selectedPage {
+    font-size: 18px;
+    font-weight: bold;
+}
