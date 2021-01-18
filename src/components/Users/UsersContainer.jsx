@@ -4,6 +4,8 @@ import { follow, unfollow, setCurrentPage, toggleFollowingProgress, getUsers } f
 import * as axios from 'axios';
 import Users from './Users';
 import Preloader from '../common/preloader/preloader';
+import { withAuthRedirect } from '../../hoc/withAuthRedirect';
+import { compose } from 'redux';
 
 class UsersContainer extends React.Component {
 
@@ -25,7 +27,7 @@ class UsersContainer extends React.Component {
                 users={this.props.users}
                 follow={this.props.follow}
                 unfollow={this.props.unfollow}
-                followingInProgress={this.props.followingInProgress}
+            followingInProgress={this.props.followingInProgress}
             />
         </>
     }
@@ -42,4 +44,4 @@ let mapStateToProps = (state) => {
     }
 }
 
-export default connect(mapStateToProps, {follow, unfollow, setCurrentPage, toggleFollowingProgress, getUsers})(UsersContainer);
+export default compose(withAuthRedirect, (connect(mapStateToProps, {follow, unfollow, setCurrentPage, toggleFollowingProgress, getUsers}))) (UsersContainer);
