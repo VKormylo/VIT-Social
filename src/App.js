@@ -43,4 +43,3 @@ const mapStateToProps = (state) => ({
 })
 
 export default compose(withRouter, connect(mapStateToProps, {initializeApp})) (App);
-// time: 31:00
