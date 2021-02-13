@@ -12,6 +12,9 @@ import { initializeApp } from "./redux/app-reducer";
 import { connect } from "react-redux";
 import { compose } from "redux";
 import Preloader from "./components/common/preloader/preloader";
+import store from "./redux/redux-store";
+import { BrowserRouter } from "react-router-dom";
+import { Provider } from "react-redux";
 
 class App extends Component {
   componentDidMount() {
@@ -20,7 +23,7 @@ class App extends Component {
 
   render() {
     if (!this.props.initialized) {
-      return <Preloader />
+      return <Preloader />;
     }
 
     return (
@@ -39,8 +42,22 @@ class App extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  initialized: state.app.initialized
-})
+  initialized: state.app.initialized,
+});
 
-export default compose(withRouter, connect(mapStateToProps, {initializeApp})) (App);
-// time: 30:00
+let AppContainer = compose(
+  withRouter,
+  connect(mapStateToProps, { initializeApp })
+)(App);
+
+const SamuraiJSApp = (props) => {
+  return (
+    <BrowserRouter>
+      <Provider store={store}>
+        <AppContainer />
+      </Provider>
+    </BrowserRouter>
+  );
+};
+
+export default SamuraiJSApp;
