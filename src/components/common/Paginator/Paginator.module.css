@@ -10,7 +10,17 @@
     transition: 0.5s;
 }
 
-.selectedPage {
-    font-size: 18px;
+.paginator {
+    margin: 20px;
+}
+
+.pageNumber {
+    cursor: pointer;
+    padding: 2px;
+    border: 1px solid grey;
+}
+
+.pageNumber.selectedPage {
     font-weight: bold;
+    border-color: #fff;
 }
