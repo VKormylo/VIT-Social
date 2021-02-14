@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a95c35be55c96a1d94422269bbacaaaa",
+    "revision": "f58743fd3bdd11519d1dd4f55fc08534",
     "url": "/VIT-Social/index.html"
   },
   {
-    "revision": "82e772b40e4cb2f7a03a",
+    "revision": "8326aab00a1527c6b256",
     "url": "/VIT-Social/static/css/3.db2bea94.chunk.css"
   },
   {
-    "revision": "c5d172290f901dda1753",
+    "revision": "c2f0af641c4214c46ea1",
     "url": "/VIT-Social/static/css/4.9b4012a3.chunk.css"
   },
   {
-    "revision": "20997cb97773473c8389",
+    "revision": "93878a718f39fd1e23e5",
     "url": "/VIT-Social/static/css/main.50f4c307.chunk.css"
   },
   {
-    "revision": "b73c68001dc2bdb0d4dc",
-    "url": "/VIT-Social/static/js/2.2fe3d0b7.chunk.js"
+    "revision": "a979f28db807caccab64",
+    "url": "/VIT-Social/static/js/2.76743380.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/VIT-Social/static/js/2.2fe3d0b7.chunk.js.LICENSE.txt"
+    "url": "/VIT-Social/static/js/2.76743380.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82e772b40e4cb2f7a03a",
-    "url": "/VIT-Social/static/js/3.bc81a385.chunk.js"
+    "revision": "8326aab00a1527c6b256",
+    "url": "/VIT-Social/static/js/3.20769386.chunk.js"
   },
   {
-    "revision": "c5d172290f901dda1753",
-    "url": "/VIT-Social/static/js/4.66007e93.chunk.js"
+    "revision": "c2f0af641c4214c46ea1",
+    "url": "/VIT-Social/static/js/4.f38b0372.chunk.js"
   },
   {
-    "revision": "20997cb97773473c8389",
-    "url": "/VIT-Social/static/js/main.f2476b68.chunk.js"
+    "revision": "93878a718f39fd1e23e5",
+    "url": "/VIT-Social/static/js/main.5f44bf98.chunk.js"
   },
   {
-    "revision": "0fc4aaf0277974d0e737",
-    "url": "/VIT-Social/static/js/runtime-main.0e3c4df5.js"
+    "revision": "d61bb4a975043824e05d",
+    "url": "/VIT-Social/static/js/runtime-main.79b6c3c8.js"
   },
   {
     "revision": "37376522ea90cb9b35283b6260e78015",
