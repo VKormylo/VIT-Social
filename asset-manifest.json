@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VIT-Social/static/css/main.50f4c307.chunk.css",
-    "main.js": "/VIT-Social/static/js/main.5f44bf98.chunk.js",
-    "main.js.map": "/VIT-Social/static/js/main.5f44bf98.chunk.js.map",
+    "main.js": "/VIT-Social/static/js/main.f32787e9.chunk.js",
+    "main.js.map": "/VIT-Social/static/js/main.f32787e9.chunk.js.map",
     "runtime-main.js": "/VIT-Social/static/js/runtime-main.79b6c3c8.js",
     "runtime-main.js.map": "/VIT-Social/static/js/runtime-main.79b6c3c8.js.map",
     "static/js/2.76743380.chunk.js": "/VIT-Social/static/js/2.76743380.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.f38b0372.chunk.js": "/VIT-Social/static/js/4.f38b0372.chunk.js",
     "static/js/4.f38b0372.chunk.js.map": "/VIT-Social/static/js/4.f38b0372.chunk.js.map",
     "index.html": "/VIT-Social/index.html",
-    "precache-manifest.a01373fceb19b9346545f5a862fb832a.js": "/VIT-Social/precache-manifest.a01373fceb19b9346545f5a862fb832a.js",
+    "precache-manifest.8b95efa52a676941f95182f2119ebb00.js": "/VIT-Social/precache-manifest.8b95efa52a676941f95182f2119ebb00.js",
     "service-worker.js": "/VIT-Social/service-worker.js",
     "static/css/3.db2bea94.chunk.css.map": "/VIT-Social/static/css/3.db2bea94.chunk.css.map",
     "static/css/4.9b4012a3.chunk.css.map": "/VIT-Social/static/css/4.9b4012a3.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.79b6c3c8.js",
     "static/js/2.76743380.chunk.js",
     "static/css/main.50f4c307.chunk.css",
-    "static/js/main.5f44bf98.chunk.js"
+    "static/js/main.f32787e9.chunk.js"
   ]
 }

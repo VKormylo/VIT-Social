@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f58743fd3bdd11519d1dd4f55fc08534",
+    "revision": "448ec2ca9af93c775c567390bc225049",
     "url": "/VIT-Social/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VIT-Social/static/css/4.9b4012a3.chunk.css"
   },
   {
-    "revision": "93878a718f39fd1e23e5",
+    "revision": "88c7009a3ae4c867eb56",
     "url": "/VIT-Social/static/css/main.50f4c307.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VIT-Social/static/js/4.f38b0372.chunk.js"
   },
   {
-    "revision": "93878a718f39fd1e23e5",
-    "url": "/VIT-Social/static/js/main.5f44bf98.chunk.js"
+    "revision": "88c7009a3ae4c867eb56",
+    "url": "/VIT-Social/static/js/main.f32787e9.chunk.js"
   },
   {
     "revision": "d61bb4a975043824e05d",
