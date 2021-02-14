@@ -10,12 +10,12 @@ let initialState = {
     {
       id: 1,
       message: "Hi, how are you?",
-      likesCount: 15,
+      likesCount: 10,
     },
     {
       id: 2,
       message: "It's my first post",
-      likesCount: 15,
+      likesCount: 8,
     },
   ],
   profile: null,

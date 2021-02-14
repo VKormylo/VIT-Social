@@ -15,7 +15,6 @@ const ProfileInfo = ({profile, status, updateStatus}) => {
             <div className={s.descriptionBlock}>
                 <img src={profile.photos.large != null ? profile.photos.large : userPhoto} className={s.userPhoto} />
                 <div>{profile.aboutMe}</div>
-                Ava + descr
                 <ProfileStatusWithHooks status={status} updateStatus={updateStatus} />
             </div>
         </div>
