@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VIT-Social/precache-manifest.523314d7deafec9261462c634fa70786.js"
+  "/VIT-Social/precache-manifest.24559392fe51311e748a9bfc7fd514d5.js"
 );
 
 self.addEventListener('message', (event) => {
