@@ -50,8 +50,8 @@ const ProfileDataForm = ({ handleSubmit, profile, error }) => {
   );
 };
 
-const ProfileDataReduxForm = reduxForm({ form: "edit-profile" })(
+const ProfileDataFormReduxForm = reduxForm({ form: "edit-profile" })(
   ProfileDataForm
 );
 
-export default ProfileDataReduxForm;
+export default ProfileDataFormReduxForm;
