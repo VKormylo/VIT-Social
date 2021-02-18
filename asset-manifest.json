@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/VIT-Social/static/css/main.b81dded6.chunk.css",
-    "main.js": "/VIT-Social/static/js/main.9d8c03fa.chunk.js",
-    "main.js.map": "/VIT-Social/static/js/main.9d8c03fa.chunk.js.map",
-    "runtime-main.js": "/VIT-Social/static/js/runtime-main.0ff912bc.js",
-    "runtime-main.js.map": "/VIT-Social/static/js/runtime-main.0ff912bc.js.map",
-    "static/js/2.a5c24738.chunk.js": "/VIT-Social/static/js/2.a5c24738.chunk.js",
-    "static/js/2.a5c24738.chunk.js.map": "/VIT-Social/static/js/2.a5c24738.chunk.js.map",
+    "main.js": "/VIT-Social/static/js/main.9f737cee.chunk.js",
+    "main.js.map": "/VIT-Social/static/js/main.9f737cee.chunk.js.map",
+    "runtime-main.js": "/VIT-Social/static/js/runtime-main.27cf9185.js",
+    "runtime-main.js.map": "/VIT-Social/static/js/runtime-main.27cf9185.js.map",
+    "static/js/2.bdb0ea5a.chunk.js": "/VIT-Social/static/js/2.bdb0ea5a.chunk.js",
+    "static/js/2.bdb0ea5a.chunk.js.map": "/VIT-Social/static/js/2.bdb0ea5a.chunk.js.map",
     "static/css/3.e6387e02.chunk.css": "/VIT-Social/static/css/3.e6387e02.chunk.css",
-    "static/js/3.152546f5.chunk.js": "/VIT-Social/static/js/3.152546f5.chunk.js",
-    "static/js/3.152546f5.chunk.js.map": "/VIT-Social/static/js/3.152546f5.chunk.js.map",
+    "static/js/3.ac86423f.chunk.js": "/VIT-Social/static/js/3.ac86423f.chunk.js",
+    "static/js/3.ac86423f.chunk.js.map": "/VIT-Social/static/js/3.ac86423f.chunk.js.map",
     "static/css/4.9b4012a3.chunk.css": "/VIT-Social/static/css/4.9b4012a3.chunk.css",
-    "static/js/4.5cf3278b.chunk.js": "/VIT-Social/static/js/4.5cf3278b.chunk.js",
-    "static/js/4.5cf3278b.chunk.js.map": "/VIT-Social/static/js/4.5cf3278b.chunk.js.map",
+    "static/js/4.fc195db5.chunk.js": "/VIT-Social/static/js/4.fc195db5.chunk.js",
+    "static/js/4.fc195db5.chunk.js.map": "/VIT-Social/static/js/4.fc195db5.chunk.js.map",
     "index.html": "/VIT-Social/index.html",
-    "precache-manifest.b3afa3f4454a22624cc61e3ef0f715d0.js": "/VIT-Social/precache-manifest.b3afa3f4454a22624cc61e3ef0f715d0.js",
+    "precache-manifest.cc7175c23958629e5082397bf24a27ee.js": "/VIT-Social/precache-manifest.cc7175c23958629e5082397bf24a27ee.js",
     "service-worker.js": "/VIT-Social/service-worker.js",
     "static/css/3.e6387e02.chunk.css.map": "/VIT-Social/static/css/3.e6387e02.chunk.css.map",
     "static/css/4.9b4012a3.chunk.css.map": "/VIT-Social/static/css/4.9b4012a3.chunk.css.map",
     "static/css/main.b81dded6.chunk.css.map": "/VIT-Social/static/css/main.b81dded6.chunk.css.map",
-    "static/js/2.a5c24738.chunk.js.LICENSE.txt": "/VIT-Social/static/js/2.a5c24738.chunk.js.LICENSE.txt",
+    "static/js/2.bdb0ea5a.chunk.js.LICENSE.txt": "/VIT-Social/static/js/2.bdb0ea5a.chunk.js.LICENSE.txt",
     "static/media/loader.gif": "/VIT-Social/static/media/loader.37376522.gif",
     "static/media/user-profile.webp": "/VIT-Social/static/media/user-profile.b6681619.webp",
     "static/media/user.png": "/VIT-Social/static/media/user.00567477.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ff912bc.js",
-    "static/js/2.a5c24738.chunk.js",
+    "static/js/runtime-main.27cf9185.js",
+    "static/js/2.bdb0ea5a.chunk.js",
     "static/css/main.b81dded6.chunk.css",
-    "static/js/main.9d8c03fa.chunk.js"
+    "static/js/main.9f737cee.chunk.js"
   ]
 }
