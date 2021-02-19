@@ -1,4 +1,3 @@
-import { initialize } from 'redux-form';
 import { getAuthUserData } from './auth-reducer';
 
 const INITIALIZED_SUCCESS = 'INITIALIZED_SUCCESS';

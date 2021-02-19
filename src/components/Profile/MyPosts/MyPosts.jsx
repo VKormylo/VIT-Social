@@ -1,5 +1,4 @@
 import React from 'react';
-import { Component } from 'react';
 import AddPostForm from './AddPostForm/AddPostForm';
 import s from './MyPosts.module.css';
 import Post from './Post/Post';
